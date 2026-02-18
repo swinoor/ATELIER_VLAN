@@ -156,6 +156,7 @@ PC1 → PC2
 👉 Doit fonctionner
 
 * * Copie d'écran ici * *  
+<img width="513" height="468" alt="image" src="https://github.com/user-attachments/assets/847d8ec7-dd38-46db-a9a5-2a3d6c151dd7" />
 
 ---
 
