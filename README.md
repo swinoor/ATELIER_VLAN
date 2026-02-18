@@ -195,9 +195,9 @@ Changer VLAN 10 en :
 ```
 
 Questions :
-- Combien d’hôtes max ?  
-- Quelle plage IP valide ?  
-- Peut-on encore communiquer avec VLAN 20 ?
+- Combien d’hôtes max ?  126 hotes
+- Quelle plage IP valide ?  de la .1 a la .126
+- Peut-on encore communiquer avec VLAN 20 ? non sauf si le routeur est reconfigurer
 
 ---
 
