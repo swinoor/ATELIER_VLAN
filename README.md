@@ -176,6 +176,14 @@ PC1 → PC3
 3. Que se passe-t-il si VLAN 10 et VLAN 20 ont le même réseau IP ? -> Répondez directement sur ce Readme.md  
 4. Pourquoi un trunk est-il nécessaire ? -> Répondez directement sur ce Readme.md
 
+1. Car les 2 pc ne sont pas dans les memes reseaux donc le routeur sert a effectuer le routage inter-vlan
+2. Le /24 indique la separation entre la partie reseau et la partie hote
+3. Cela cree un conflit d'adressage car le routeur ne pourra pas les differencier
+4. Il est necessaire pour faire transiter plusieurs vlan dans le meme lien physique
+
+
+
+
 ---
 
 # ⭐ Travail sur les Masques
